@@ -1,0 +1,13 @@
+C:\Users\maari\OneDrive\Documentos\2.Desarrollo de Informatica\Proyecto1 de Prueba\bin\Debug\netcoreapp3.1\Proyecto1 de Prueba.exe
+C:\Users\maari\OneDrive\Documentos\2.Desarrollo de Informatica\Proyecto1 de Prueba\bin\Debug\netcoreapp3.1\Proyecto1 de Prueba.deps.json
+C:\Users\maari\OneDrive\Documentos\2.Desarrollo de Informatica\Proyecto1 de Prueba\bin\Debug\netcoreapp3.1\Proyecto1 de Prueba.runtimeconfig.json
+C:\Users\maari\OneDrive\Documentos\2.Desarrollo de Informatica\Proyecto1 de Prueba\bin\Debug\netcoreapp3.1\Proyecto1 de Prueba.runtimeconfig.dev.json
+C:\Users\maari\OneDrive\Documentos\2.Desarrollo de Informatica\Proyecto1 de Prueba\bin\Debug\netcoreapp3.1\Proyecto1 de Prueba.dll
+C:\Users\maari\OneDrive\Documentos\2.Desarrollo de Informatica\Proyecto1 de Prueba\bin\Debug\netcoreapp3.1\Proyecto1 de Prueba.pdb
+C:\Users\maari\OneDrive\Documentos\2.Desarrollo de Informatica\Proyecto1 de Prueba\obj\Debug\netcoreapp3.1\Proyecto1 de Prueba.csprojAssemblyReference.cache
+C:\Users\maari\OneDrive\Documentos\2.Desarrollo de Informatica\Proyecto1 de Prueba\obj\Debug\netcoreapp3.1\Proyecto1 de Prueba.AssemblyInfoInputs.cache
+C:\Users\maari\OneDrive\Documentos\2.Desarrollo de Informatica\Proyecto1 de Prueba\obj\Debug\netcoreapp3.1\Proyecto1 de Prueba.AssemblyInfo.cs
+C:\Users\maari\OneDrive\Documentos\2.Desarrollo de Informatica\Proyecto1 de Prueba\obj\Debug\netcoreapp3.1\Proyecto1 de Prueba.csproj.CoreCompileInputs.cache
+C:\Users\maari\OneDrive\Documentos\2.Desarrollo de Informatica\Proyecto1 de Prueba\obj\Debug\netcoreapp3.1\Proyecto1 de Prueba.dll
+C:\Users\maari\OneDrive\Documentos\2.Desarrollo de Informatica\Proyecto1 de Prueba\obj\Debug\netcoreapp3.1\Proyecto1 de Prueba.pdb
+C:\Users\maari\OneDrive\Documentos\2.Desarrollo de Informatica\Proyecto1 de Prueba\obj\Debug\netcoreapp3.1\Proyecto1 de Prueba.genruntimeconfig.cache
