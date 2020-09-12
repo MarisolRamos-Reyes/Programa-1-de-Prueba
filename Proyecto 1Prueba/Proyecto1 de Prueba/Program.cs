@@ -7,6 +7,7 @@ namespace Proyecto1_de_Prueba
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Brandon ¿Como estas?");
+            Console.WriteLine("Bien Marisol");
             Console.ReadKey();
         }
     }
